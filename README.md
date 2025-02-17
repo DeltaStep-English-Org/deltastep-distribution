@@ -1,2 +1,2 @@
 # deltastep-distribution
-A repo to distribute DeltaStep English educational materials
+_At present, this repository is defunct._
